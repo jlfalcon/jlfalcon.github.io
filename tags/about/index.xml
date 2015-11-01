@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jose Luis Falcon Ramirez</title>
+    <link>http://jlfalcon.github.io/falconramirez/tags/about/</link>
+    <description>Recent content in About on Jose Luis Falcon Ramirez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 27 Sep 2015 20:12:08 +0200</lastBuildDate>
+    <atom:link href="http://jlfalcon.github.io/falconramirez/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://jlfalcon.github.io/falconramirez/about/</link>
+      <pubDate>Sun, 27 Sep 2015 20:12:08 +0200</pubDate>
+      
+      <guid>http://jlfalcon.github.io/falconramirez/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;sobre-mí:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sobre mí&lt;/h2&gt;
+
+&lt;p&gt;Nací en San Fernando (Cádiz) un 19 de Agosto de 1988, desde edades tempranas mostré gran interés en las tecnologías de la información.&lt;/p&gt;
+
+&lt;p&gt;Obtuve el título de Ingeniero técnico en informática de sistemas en la Universidad de Cádiz en 2009 con un proyecto OpenBTrainer en el cual conseguí matrícula de honor. No contento con el título obtenido seguí formándome ser Ingeniero Informático, en esta ocasión realicé un proyecto basado en WebServices (SOAP) mediante la integración de un Enterprise Server Bus (ESB) y un sistema Complex Event Processing (CEP) obteniendo la misma calificación.&lt;/p&gt;
+
+&lt;p&gt;En mis orígenes formé parte de I3net como becario, realizando funciones de programación Java e introduciéndome en PHP, participé ampliamente en proyectos relacionados con los transportes públicos de Andalucía.&lt;/p&gt;
+
+&lt;p&gt;Actualmente continuo en Crononauta realizando tareas de mantenimiento y desarrollo de páginas escritas en Drupal y Symfony. Además he participado en proyectos internacionales relacionados con Angular JS.&lt;/p&gt;
+
+&lt;h3 id=&#34;drupal:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Drupal&lt;/h3&gt;
+
+&lt;p&gt;Me considero un apasionado de Drupal usándolo de framework. Realizo módulos personalizados, modificaciones y personalizaciones relacionadas con theming. Realizo tareas complejas de caching y performance de Queries.&lt;/p&gt;
+
+&lt;h3 id=&#34;symfony:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Symfony&lt;/h3&gt;
+
+&lt;p&gt;He participado en proyectos basados en Symfony 2.3 LTS y su integración mediante Maven. Además he realizado investigaciones en paralelo con Drupal 8 para integrar Drupal y Symfony, usando éste último como capa visible al usuario final y Drupal como Backend.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript-jquery:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Javascript / JQuery&lt;/h2&gt;
+
+&lt;p&gt;Realizo tareas avanzadas mediante jQuery como alteraciones del DOM, animaciones o gestión de eventos. Además he realizado investigaciones y proyectos en nuevos frameworks javascript como AngularJS.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
